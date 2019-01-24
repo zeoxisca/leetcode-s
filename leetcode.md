@@ -1,4 +1,4 @@
-#Random Point in Non-overlapping Rectangles
+# Random Point in Non-overlapping Rectangles
 给定一个非重叠轴对齐矩形的列表 rects，写一个函数 pick 随机均匀地选取矩形覆盖的空间中的整数点。
 
 提示：
@@ -35,10 +35,9 @@
 > 
 >
 
-####输入语法的说明：
+#### 输入语法的说明：
 
 输入是两个列表：调用的子例程及其参数。Solution 的构造函数有一个参数，即矩形数组 rects。pick 没有参数。参数总是用列表包装的，即使没有也是如此。
 
 ---------------------
 
-fdgasdfasdf
